@@ -30,7 +30,6 @@ http://www.whois.com/whois website to get detailed information about a domain na
 ## OUTPUT:
 ### whois:
 <img width="1838" height="1001" alt="image" src="https://github.com/user-attachments/assets/7df65316-3f40-474d-8e6c-f0d53261ba20" />
-
 ### Ip2location:
 
 ### web.archive.org :
@@ -38,8 +37,17 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## Webserver Finger Printing:
 ### Netcat:
-### nmap :
-### whatweb :
+
+<img width="420" height="191" alt="image" src="https://github.com/user-attachments/assets/9cd76bf8-c95e-4d3e-8481-a25a7ed012de" />
+
+### Nmap :
+
+<img width="659" height="320" alt="image" src="https://github.com/user-attachments/assets/40af94b7-51fa-4a8c-be7a-59371dc6c246" />
+
+### Whatweb :
+
+<img width="1578" height="294" alt="image" src="https://github.com/user-attachments/assets/5409152f-8f3e-42fe-a6c9-83f5297f90d2" />
+
 ### httpprint :
 
 ## Tracing the Location
@@ -54,19 +62,7 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ### ICMP Traceroute:
 
+<img width="1035" height="509" alt="image" src="https://github.com/user-attachments/assets/588ad039-ade2-4884-bbb1-e1bad3707096" />
 
 ## RESULT:
 The information gathering techniques tools/procedure were identified successfully
-
-
-
-
-
-
-
-
-
-
-
-## RESULT:
-The information gathering techniques tools/procedure were  identified successfully
