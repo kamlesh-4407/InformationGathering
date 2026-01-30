@@ -49,8 +49,6 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 <img width="1578" height="294" alt="image" src="https://github.com/user-attachments/assets/5409152f-8f3e-42fe-a6c9-83f5297f90d2" />
 
-### httpprint :
-
 ## Tracing the Location
 
 ### TCP Traceroute:
