@@ -30,6 +30,7 @@ http://www.whois.com/whois website to get detailed information about a domain na
 ## OUTPUT:
 ### whois:
 <img width="1838" height="1001" alt="image" src="https://github.com/user-attachments/assets/7df65316-3f40-474d-8e6c-f0d53261ba20" />
+
 ### Ip2location:
 
 ### web.archive.org :
