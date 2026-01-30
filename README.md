@@ -32,6 +32,7 @@ http://www.whois.com/whois website to get detailed information about a domain na
 <img width="1838" height="1001" alt="image" src="https://github.com/user-attachments/assets/7df65316-3f40-474d-8e6c-f0d53261ba20" />
 
 ### Ip2location:
+<img width="1838" height="1059" alt="image" src="https://github.com/user-attachments/assets/26ae8061-5d07-49b6-b338-6267cfbff898" />
 
 ### web.archive.org :
 <img width="1658" height="994" alt="image" src="https://github.com/user-attachments/assets/f53a008c-10a0-46c1-8c00-62eed77e7f13" />
